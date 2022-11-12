@@ -1,0 +1,17 @@
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.csproj.AssemblyReference.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfoInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfo.cs
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.csproj.CoreCompileInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\PL.deps.json
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\PL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\PL.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.csproj.CopyComplete
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\PL\obj\Debug\netcoreapp3.1\PL.pdb

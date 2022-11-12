@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/hiv4T19m5HIgYsNuWC2hUxrG5UHXpUHrb/7L5SRIqaRLJivcyxbdvbqS5bQYljd60fpFY++NZ4DbD9puc/yA==",
+  "success": false,
+  "projectFilePath": "D:\\sem 7\\EAD\\HomeWork2\\GPACalc\\Gpa_Calculator\\Gpa_Calculator\\Gpa_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project DAL is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project DAL supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "DAL",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
