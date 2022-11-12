@@ -1,0 +1,15 @@
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\net6.0\DAL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\net6.0\DAL.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\net6.0\DTO.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\net6.0\DTO.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\DAL.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\net6.0\ref\DAL.dll

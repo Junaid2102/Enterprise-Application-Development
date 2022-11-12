@@ -1,0 +1,13 @@
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
