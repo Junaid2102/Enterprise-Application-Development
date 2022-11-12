@@ -1,0 +1,10 @@
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\sem 7\EAD\HomeWork2\GPACalc\Gpa_Calculator\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
